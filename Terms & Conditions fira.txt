@@ -1,0 +1,83 @@
+📑 Terms & Conditions
+Effective Date: July 17, 2025
+Bot Name: Fira
+Developers: Prince Neon & Zhongli
+
+1. Use of Fira
+By inviting and utilizing Fira, you agree to abide by the following terms:
+
+Fira is provided “as is”, with no guarantee of continuous uptime or uninterrupted service.
+
+Server owners are solely responsible for how the bot is used within their communities.
+
+The bot requires appropriate permissions for full functionality.
+✅ Essential Permissions:
+
+Administrator (strongly recommended for full functionality)
+
+Manage Roles
+
+Manage Channels
+
+View Audit Log
+
+Send Messages, Embed Links, Use Slash Commands
+
+2. Usage Restrictions
+By using Fira, you agree not to:
+
+Abuse, spam, or misuse any features of the bot
+
+Use Fira to harass, threaten, or violate others' rights
+
+Employ the bot in any illegal activities or in violation of Discord’s Terms of Service
+
+Attempt to reverse-engineer, decompile, exploit, or replicate the bot or any of its modules
+
+Circumvent premium features or abuse trial/promo access
+
+Violating any of the above may lead to blacklisting, denial of support, or permanent bans from the bot network.
+
+3. Premium Features 💎
+Fira includes exclusive Premium Modules and features that enhance the user experience:
+
+Premium features include (but are not limited to):
+🎵 Music, 🎙 Voicemaster, 🎁 Giveaways+, 🌐 Advanced Logging, 🎯 Smart AutoMod
+
+Terms for Premium:
+
+Premium subscriptions are tied to the purchasing server ID or user ID only.
+
+Resale, sharing, or transfer of Premium access is strictly prohibited.
+
+Violation may result in termination of access without refund.
+
+For premium support or inquiries, reach out via the Support Server or Website.
+
+4. Availability & Maintenance
+Fira may go offline periodically for updates, bug fixes, or improvements.
+
+Modules and features are subject to modification or removal without prior notice.
+
+We strive to minimize downtime, but no uptime guarantees are made.
+
+5. Limitation of Liability
+Fira’s developers are not liable for actions performed by the bot, including but not limited to bans, mutes, role changes, or deletions.
+
+Use of Fira is at your own risk.
+
+No guarantees are provided regarding the accuracy, response time, or behavior of commands.
+
+6. Data & Privacy
+Fira does not store personal or message content data unless required for functionality (e.g., logging, custom responses).
+
+Any stored data is managed responsibly and is not shared with third parties.
+
+By using Fira, you consent to necessary data collection (e.g., server ID, user ID, roles) for bot operation.
+
+7. Changes to These Terms
+These Terms & Conditions may be updated at any time without prior notice. Continued usage of Fira after changes implies full acceptance of the revised terms.
+
+8. Contact & Support
+For help, complaints, or support, please visit:
+Invite Fira | Support Server | Website

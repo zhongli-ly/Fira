@@ -1,0 +1,88 @@
+📜 Privacy Policy
+Effective Date: July 17, 2025
+Bot Name: Fira
+Developers: Prince Neon & Zhongli
+
+1. 🔍 Information We Collect
+Fira only collects minimal and necessary data to function effectively on Discord servers:
+
+User IDs – Used for moderation, logging, user settings, and roles
+
+Guild (Server) IDs – To store server-specific configurations and module states
+
+Message IDs & Channel IDs – For logs, starboards, autoresponders, and ticket systems
+
+Voice State Data – Utilized solely for voice-based features like Music and Voicemaster
+
+Command Usage Logs (Optional) – For optimization, diagnostics, and anti-abuse
+
+Role & Permission Information – For modules like Antinuke, Button Roles, and Custom Roles
+
+⚠️ We do NOT collect or store private messages, email addresses, IP addresses, passwords, or any personally identifiable information (PII).
+
+2. 🎯 Why We Collect This Data
+We use this data for legitimate operational purposes:
+
+To enable features like moderation, logging, music playback, and ticketing
+
+To remember custom server settings and improve performance
+
+To identify abuse or misuse (e.g., raid attempts or spam)
+
+To ensure stability and user accountability across commands
+
+3. 🔐 Data Storage & Security
+Data is securely stored in a private MongoDB instance
+
+Access is strictly limited to the lead developer (Prince Neon)
+
+Security measures include encryption, access controls, and regular audits
+
+Data is never shared, sold, or transferred to third parties
+
+4. 🧹 Data Retention & Deletion
+User data is automatically deleted within 7 days when a user leaves a server
+
+Server data is deleted upon bot removal or request by server admins
+
+Manual deletion requests can be made via our Support Server
+
+Data is retained only as long as needed for bot functionality
+
+5. 🤝 Third-Party Services
+Fira integrates only with trusted services necessary for operation:
+
+Discord API – Primary communication platform for bot interactions
+
+GitHub – Used for development, deployment, and version control
+
+Fira follows all terms outlined in the Discord Developer Terms of Service and Discord’s Privacy Policy.
+
+6. 📜 Compliance with Discord Policies
+By using Fira, you agree to comply with:
+
+Discord’s Terms of Service
+
+Discord’s Community Guidelines
+
+Discord’s Developer Policy
+
+We do not encourage or support any use of Fira that violates these policies.
+Any violation may result in data removal, access termination, or blacklisting from the Fira system.
+
+7. ✏️ Changes to This Policy
+We may update this Privacy Policy at any time without prior notice.
+Major changes will be announced through:
+
+The Support Server
+
+Official Fira changelogs
+
+Continued use of Fira after changes implies acceptance of the updated policy.
+
+8. 📩 Contact
+For questions, concerns, or data removal requests:
+
+Join the Support Server
+
+Or contact directly: Prince Neon or Zhongli
